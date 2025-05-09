@@ -16,11 +16,11 @@ run the program with arguments:</br>
 In your terminal run to encrypt
 
 ```zsh
-go run . \"encrypt\" \"exampleFile.txt\" \"Example key\"
+go run . "encrypt" "exampleFile.txt" "Example key"
 ```
 
 to decrypt
 
 ```zsh
-go run . \"decrypt\" \"exampleFile.txt\" \"Example key\"
+go run . "decrypt" "exampleFile.txt" "Example key"
 ```
